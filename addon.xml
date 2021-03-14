@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="screensaver.video" name="VideoScreensaver" version="100.9.0" provider-name="robwebset">
+<addon id="screensaver.video" name="VideoScreensaver" version="100.10.0" provider-name="CinqMilleAns">
 	<requires>
-		<import addon="xbmc.python" version="2.14.0"/>
+		<import addon="xbmc.python" version="3.00.0"/>
 		<import addon="script.module.simplejson" version="3.3.0"/>
 	</requires>
 	<extension point="xbmc.ui.screensaver" library="default.py"/>
@@ -55,7 +55,7 @@
 		<language></language>
 		<platform>all</platform>
 		<license>See LICENSE.txt</license>
-		<forum>https://github.com/robwebset/screensaver.video</forum>
+		<forum>https://github.com/CinqMilleAns/screensaver.video</forum>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
