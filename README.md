@@ -1,5 +1,7 @@
 __NOTICE__
 
+__Fork for Kodi Matrix 19.0. Original: https://github.com/robwebset/screensaver.video__
+
 __This addon is no longer maintained by me, if you are interested in taking it over then please contact me via the Issues section. (You are welcome to submit it to the official Kodi Repo - just make sure you remove my name from it before you do it)__
 
 
